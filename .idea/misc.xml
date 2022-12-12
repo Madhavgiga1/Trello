@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/drawable/different_login_shape.xml" value="0.25" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/drawable/googlelogindrawable.xml" value="0.25" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/drawable/login_signup_rectangle.xml" value="0.1705" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/drawable/textfielsinputshapes.xml" value="0.25" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_base.xml" value="0.3359375" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_introscreenactivity.xml" value="0.3359375" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_signin.xml" value="0.3359375" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_signupactivity.xml" value="0.3359375" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/layout/activity_splashscreenactivity.xml" value="0.3359375" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/layout/dialog_progress.xml" value="0.3359375" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/layout/login_screen.xml" value="0.3359375" />
+        <entry key="..\:/Users/sharm/AndroidStudioProjects/Trello/app/src/main/res/layout/signup_screen.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
